@@ -2,6 +2,10 @@
 
 A Swift package that provides a flexible way to manage manual pause and resume in asynchronous Swift code using tags. `ManualResume` allows for pausing execution until a condition is met or an operation is canceled. This is particularly useful in scenarios where asynchronous tasks need to be coordinated based on certain events or states.
 
+**This Swift Package was entirely created on ChatGPT, including this README(except for this note).**
+
+Here is the [full chat](https://chat.openai.com/share/4fad6533-20ce-463b-a1a6-cf0cf7ff2a0a)
+
 ## Features
 
 - Pause and resume asynchronous execution using tags.
